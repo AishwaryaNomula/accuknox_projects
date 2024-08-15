@@ -1,0 +1,157 @@
+.detailList
+{
+    padding-left: 130px;
+    padding-top: 10px;
+}
+.pad-t{
+    padding-top: 4px;
+}
+.detailList li
+{
+  list-style-type: none;
+  display: inline;
+}
+.serviceNav li a,.detailList li a
+{
+    text-decoration: none;
+    color: #363535;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-right: 7px;
+}
+.serviceNav li i, .detailList li i
+{
+    color: #414141;
+    font-size: 13px;
+}
+.float-l{
+    float: left;
+}
+/* .float-r{
+    padding-left: 150px;
+} */
+.Bgcolor{
+    background-color: rgb(243, 237, 237);
+}
+.pad-l
+{
+    padding-left: 120px;
+}
+.add-btn
+{
+    padding: 5px 15px;
+    border-radius: 3px; 
+    border: 2px solid rgb(214, 207, 207); 
+    background-color: rgb(243, 246, 248);
+    color: black;
+    font-weight: bold;
+}
+.add-btn:hover
+{
+    background-color: rgb(239, 73, 12);
+    color: white;
+    border: none;
+}
+.dashboardSection{
+    background-color: rgb(249, 250, 252);
+    padding: 10px 0px;
+}
+.cardSection{
+    padding: 30px 10px;
+}
+.serviceNav li,.detailList li
+{
+  list-style-type: none;
+  display: inline;
+}
+.serviceNav li a,.detailList li a
+{
+    text-decoration: none;
+    color: #bebbbb;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-right: 7px;
+}
+.serviceNav li i, .detailList li i
+{
+    color: #414141;
+    font-size: 13px;
+}
+.serviceNav
+{
+    border-bottom: 2px solid #d5d5e9;
+    border-top: 2px solid #d5d5e9;
+    padding: 13px
+}
+.serviceHead
+{
+    background-color: rgba(250, 68, 17, 0.9);
+   padding: 10px;
+   text-align: center;
+   color: #fff;
+   font-weight: bold;
+   font-family:  'Montserrat', sans-serif;
+   font-size: 18px;
+   margin: 0px;
+}
+.serviceForm
+{
+    background-color: #f6f2f2;;
+    padding: 20px;
+}
+.m-auto{
+    margin: 0px 50px;
+}
+.labelForm{
+    margin: 0px 10px;
+    font-weight: bold;
+}
+.btnColor
+{
+    background-color: rgb(244, 162, 10);
+    color: white;
+    font-weight: bold;
+    font-size:18px;
+}
+.btnColor:hover
+{
+    background-color: rgb(232, 157, 18);
+    color: #fff;
+}
+.form-control:hover
+{
+    border-bottom: 2px solid rgba(250, 130, 17, 0.9);
+}
+.form-group
+{
+    padding: 15px;
+}
+.float-r{
+    float: left;
+}
+.display-inline{
+    display: inline-block;
+}
+.card-margin{
+    margin: 20px 40px !important;
+}
+.displayService
+{
+    display: inline-block !important;
+    margin: 20px;
+    padding: 15px;
+    background-color: white;
+    font-weight: 900;
+    border-left: 3px solid orange !important;
+    border-radius: 10px;
+    box-shadow: 2px 3px 4px gray !important;
+    color: #1e1e1e;
+}
+.delete-btn{
+    padding: 0px !important;
+    float: right !important;
+    background-color: white !important;
+    font-size: 16px !important;
+}

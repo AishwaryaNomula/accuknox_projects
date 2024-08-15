@@ -1,0 +1,39 @@
+{
+  "Widget": [
+    {
+      "id": "101",
+      "name": "Top5 requirements by role failure(CIS-AWS)",
+      "description": "Loging, Networking, storage, IAM"
+    },
+    {
+      "id": "102",
+      "name": "Top5 requirements by role failure(CIS-Kubernetes)",
+      "description": "API Server, General-Policies"
+    },
+    {
+      "id": "103",
+      "name": "Top5 requirements by role failure(CIS-Docker)",
+      "description": "Docker-Daemon-Configuration-Files, Containet-Runtime-Configuration"
+    },
+    {
+      "id": "104",
+      "name": "Top5 requirements by role failure(PCI)",
+      "description": "Firewall-Configuration, Least-Previlaged-Access"
+    },
+    {
+      "id": "105",
+      "name": "Top5 requirements by role failure(soc)",
+      "description": "Logical-and-Physical-Access-Control"
+    },
+    {
+      "id": "107",
+      "name": "HIPPA",
+      "description": "Security-Management-Process, Workforce-Security"
+    },
+    {
+      "id": "113",
+      "name": "HIPAA",
+      "description": "Security-Management-Process, Workforce-Security"
+    }
+  ]
+}
